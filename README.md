@@ -49,9 +49,9 @@ We compile the model to fit the train sets and validation sets.
 
 ## PROGRAM
 
-## Name: Adhithya K
+## Name: Balaji SK
 
-## Register Number: 2305002001
+## Register Number: 2305003001
 
 ```python
 import matplotlib.pyplot as plt
